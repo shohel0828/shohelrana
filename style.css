@@ -1,0 +1,287 @@
+.search-btn {
+    margin-left: -35px;
+    
+    border: none;
+    box-shadow: none;
+    background: lransparenl;
+
+    background: none;
+    outline: none;
+}
+.form-control {
+    width: 280px;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+.do {
+    padding-right: 110px;
+}
+.slider-control-btn {
+    width: 100px;
+}
+.prev-btn {
+    margin-left: -120px;
+   
+}
+.next-btn {
+    margin-right: -120px;
+    
+}
+.container {
+    background-color: #FEEAE9;
+}
+.lo {
+    margin-top: 20px;
+    border-radius: 5px;
+}
+.price {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+
+
+h4 {
+    color: #FEEAE9;
+}
+
+
+
+
+
+
+
+
+
+
+
+.for {
+    width: 350px;
+    height: 35px;
+    margin-left: 50px;
+    margin-top: 40px;
+    border: 1px solid black;
+    padding-top: 2.5px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 50px;
+    
+}
+.do {
+    align-items: center;
+    justify-content: space-between;
+     
+}
+.srch {
+    border: none;
+    outline: none;
+    width: 310px;
+    padding-left: 5px;
+    padding-top: 2.5px;
+    justify-content: center;
+    align-items: center;
+}
+.search {
+    padding-left: 10px;
+}
+.container {
+    justify-content: center;
+    align-items: center;
+}
+.collapse {
+    margin-left: 25px;
+}
+.did {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #F4F4F4;
+   
+}
+.pic {
+   width: 125px;
+   height: 105px;
+}
+.photo {
+    width: 105px;
+    height: 105px; 
+}
+.to {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.ko {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.jo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;  
+    margin-left: 58px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.done {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+h2 {
+    margin-left: 0px; 
+}
+.btn {
+    margin-left: 29%;
+    background-color: #000000;
+}
+.bing {
+    width: 213px;
+    height: 30px;
+    
+    border: 1px solid white;
+   
+    justify-content: center;
+    align-items: center;
+    
+    border-radius: 5px; 
+}
+.maile {
+    border: none;
+    outline: none;
+    background-color:#FEEAE9 ;
+    margin-bottom: 30px;
+}
+.don {
+    padding-left: 5px;
+}
+.hr {
+    width: 40px;
+}
+.icon {
+   margin-left: 40%;
+}
+.rok {
+    padding: 7px;
+   
+}
+.footer {
+    margin-top: 45px;
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+    
+}
+.fool1 {
+    width: 290px;
+    height:130px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+    
+}
+.fool2 {
+    width: 290px;
+    height:130px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+
+}
+.fool3 {
+    width: 290px;
+    height:130px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+
+}
+.man {
+    width: 90px;
+    height: 70px;
+}
+h5 {
+    padding-left: 42%;
+}
+.sobi {
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+}
+.card {
+    justify-content: center;
+    align-items: center;
+    
+}
+.sobi:hover {
+    transform: scale(1.2);
+}
+span {
+    color: black;
+} h3 {
+    color: red;
+}
+.not {
+    margin-top: 40px;
+}
+.card-title {
+    margin-right: 25px;
+}
+.card-body {
+    justify-content: center;
+    align-items: center;
+    
+}
+.lol {
+    margin-left: 0.2%;
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+h6 {
+   margin-left: 750px;
+    color: orange;
+    padding-top: 13px;
+  
+}
+.good {
+    display: flex;
+    padding-top: 10px;
+   
+}
+.hat {
+    margin-left: 800px; 
+}
+.cool {
+    color: #FF136F;
+}
+b {
+    margin-left: 68px;
+}
+.fat {
+    margin-left: 35px;
+}
+.was {
+    padding-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 10px;
+    background-color: #F4F4F4;
+}
+
+
+
